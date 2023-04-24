@@ -1,12 +1,12 @@
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python logo" width="200" style= "display:block; margin:auto;" />
-
-
 # 🐍 Python Tutorial in Jupyter Notebook 📝
+
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python logo" width="200"/>
+</p>
 
 Welcome to my Python tutorial in Jupyter Notebook! This tutorial covers the basics of Python programming, including variables, data types, control flow, functions, and object-oriented programming. It is suitable for those who want a good understanding of basics to be ready to learn more advanced topics like Data Analytics
 
-## Getting started
+## Getting started 🚀
 
 To get started with this tutorial, follow these steps : 
 
@@ -25,7 +25,7 @@ Before you can run the code in the Jupyter Notebook, you will need to have the f
 - Jupyter Notebook
 
 
-## Table of Content
+## Table of Content 📜
 
 - Python
   - Hello World
